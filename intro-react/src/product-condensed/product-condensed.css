@@ -1,0 +1,12 @@
+.list-group-item {
+    background-color: rgb(241, 241, 241);
+}
+
+.content {
+    display: inline-block;
+    margin: 10px 10px 10px 0px;
+}
+
+li .btn {
+    float: right;
+}
